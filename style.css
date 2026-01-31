@@ -243,7 +243,7 @@ body {
 .hero {
     height: 85vh;
     background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), 
-                url('images/hero-bg.jfif') center/cover no-repeat;
+                url('hero-bg.jfif') center/cover no-repeat;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -570,7 +570,7 @@ body {
 /* ====== SHOP PAGE SPECIFIC STYLES ====== */
 .shop-hero {
     background: linear-gradient(rgba(18, 18, 18, 0.9), rgba(18, 18, 18, 0.9)), 
-                url('images/hero-bg.jfif') center/cover no-repeat;
+                url('hero-bg.jfif') center/cover no-repeat;
     color: white;
     text-align: center;
     padding: 80px 0;
@@ -726,7 +726,7 @@ body {
 /* ====== CONTACT PAGE STYLES ====== */
 .contact-hero {
     background: linear-gradient(rgba(18, 18, 18, 0.9), rgba(18, 18, 18, 0.9)), 
-                url('images/hero-bg.jfif') center/cover no-repeat;
+                url('hero-bg.jfif') center/cover no-repeat;
     color: white;
     text-align: center;
     padding: 80px 0;
@@ -1200,3 +1200,4 @@ body {
         white-space: nowrap;
     }
 }
+
